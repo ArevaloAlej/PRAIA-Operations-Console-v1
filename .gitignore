@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.swp
+*.swo
+*~
+.env
+.env.local
+config/api-keys.js
+.vscode/settings.json
+dist/
+build/
+*.log
